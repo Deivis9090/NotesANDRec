@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="STR_WIDGET">N Y R</string>
+
+    <string-array name="Colores">
+        <item>Rojo Oscuro</item>
+        <item>Verde</item>
+        <item>Purpura</item>
+        <item>Azul</item>
+        <item>Amarillo</item>
+        <item>Cafe</item>
+        <item>Azul Celeste</item>
+        <item>Rosa</item>
+    </string-array>
+</resources>
